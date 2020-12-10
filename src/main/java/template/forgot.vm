@@ -1,0 +1,8 @@
+Hello $emailTemplateValue.username, 
+
+In reference to your "Forgot Password" query, please follow the link below to reset your password.
+
+$emailTemplateValue.url
+
+Best Regards
+Remote Patient Monitoring System

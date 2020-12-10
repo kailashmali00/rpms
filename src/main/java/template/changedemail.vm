@@ -1,0 +1,7 @@
+Hello $emailTemplateValue.username, 
+
+Your Email $emailTemplateValue.firstEmail has been changed, Now you can get all the mails on this email address, Please use this email $emailTemplateValue.secondEmail for login from now.
+
+
+Best Regards
+Remote Patient Monitoring System

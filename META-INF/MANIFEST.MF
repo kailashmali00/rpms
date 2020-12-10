@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: RPMS
+Bundle-SymbolicName: RPMS
+Bundle-Version: 1.0.0.qualifier
+Export-Package: .,
+ com.example.myproject,
+ com.example.rpms.constant,
+ com.example.rpms.controller,
+ com.example.rpms.dao,
+ com.example.rpms.domain,
+ com.example.rpms.dto,
+ com.example.rpms.emailTemplate,
+ com.example.rpms.filter,
+ com.example.rpms.mailapi,
+ com.example.rpms.service,
+ template
